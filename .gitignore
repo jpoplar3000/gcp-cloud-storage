@@ -13,6 +13,7 @@
 .kitchen
 
 credentials.json
+creds.json
 
 .DS_Store
 test/go.mod
