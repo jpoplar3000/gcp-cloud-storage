@@ -1,12 +1,11 @@
 provider "google" {
   project = "lively-epsilon-340021"
-  region  = "us-central1"
-  # zone    = "us-central1-c"
+  region  = "us-west2"
+  # zone    = "us-west2-c"
 }
 
 resource "google_storage_bucket" "static-site" {
-  name          = "poplar-bucket-local-tf-02222022-3"
-  location      = "US-WEST1"
-
+  name          = "poplar-bucket-local-tf-02122022"
+  location      = "US-WEST2"
 
 }

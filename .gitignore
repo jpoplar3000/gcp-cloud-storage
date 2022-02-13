@@ -2,7 +2,7 @@
 
 **/.terraform*
 
-**/backend.tf
+# **/backend.tf
 
 **/terraform.tfplan
 
