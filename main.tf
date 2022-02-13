@@ -7,5 +7,4 @@ provider "google" {
 resource "google_storage_bucket" "static-site" {
   name          = "poplar-bucket-local-tf-02122022"
   location      = "US-WEST2"
-
 }
