@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.7](https://github.com/jpoplar3000/gcp-cloud-storage/compare/v1.0.6...v1.0.7) (2024-12-14)
+
+
+### Bug Fixes
+
+* ver ([93b98e8](https://github.com/jpoplar3000/gcp-cloud-storage/commit/93b98e848bc1bd6996d916e3c892c4ac5aaf1933))
+
 ## [1.0.6](https://github.com/jpoplar3000/gcp-cloud-storage/compare/v1.0.5...v1.0.6) (2024-12-14)
 
 
