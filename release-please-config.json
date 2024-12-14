@@ -1,15 +1,15 @@
 {
-    "release-type": "simple",
-    "include-component-in-tag": true,
-    "packages": {
-      "action1": {
-        "path": "action1",
-        "component": "action1"
-      },
-      "action2": {
-        "path": "action2",
-        "component": "action2"
-      }
+  "release-type": "simple",
+  "include-component-in-tag": true,
+  "packages": {
+    "action1": {
+      "path": "action1",
+      "component": "action1"
+    },
+    "action2": {
+      "path": "action2",
+      "component": "action2"
     }
   }
+}
   
