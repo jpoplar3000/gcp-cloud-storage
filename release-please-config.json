@@ -9,6 +9,10 @@
     "action2": {
       "path": "action2",
       "component": "action2"
+    },
+    "action3": {
+      "path": "action3",
+      "component": "action3"
     }
   }
 }

@@ -1,4 +1,6 @@
 name: Release Please
+env:
+  RELEASE_PLEASE_DEBUG: "true"
 
 on:
   push:
