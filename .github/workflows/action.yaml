@@ -20,6 +20,6 @@ jobs:
       - name: Run Release Please
         uses: google-github-actions/release-please-action@v3 # Correct format
         with:
-          release-type: node # Adjust for your project type
+          release-type: simple # Adjust for your project type
           token: ${{ secrets.GITHUB_TOKEN }}
 

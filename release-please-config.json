@@ -1,0 +1,12 @@
+{
+    "release-type": "simple",
+    "packages": {
+      "action1": {
+        "path": "action1"
+      },
+      "action2": {
+        "path": "action2"
+      }
+    }
+  }
+  
